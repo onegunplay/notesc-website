@@ -38,6 +38,7 @@ header {
 
 .hamburgar {
     display: none;
+    transition: 0.3s;
 }
 
 .nav-bar ul {
