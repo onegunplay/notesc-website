@@ -136,6 +136,11 @@ header {
 
 }
 
+.git-icon {
+    position: relative;
+    top: 450px;
+}
+
 .abt {
     position: relative;
     top: 800px;
