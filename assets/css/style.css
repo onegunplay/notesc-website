@@ -189,7 +189,7 @@ header {
 
 .proj {
     position: relative;
-    top: 1800px;
+    top: 1900px;
     font-size: 35px;
     color: goldenrod;
     text-align: left;
@@ -200,7 +200,7 @@ header {
 
 .proj-list {
     position: relative;
-    top: 1850px;
+    top: 1950px;
     font-size: 20px;
     color: wheat;
     text-align: center;
