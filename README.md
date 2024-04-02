@@ -1,3 +1,3 @@
-## Hello. This is my Website about me..
+## Hello. This is my website...
 
 ### https://notesc.netlify.app/
